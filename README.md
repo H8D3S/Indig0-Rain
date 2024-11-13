@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Indig0-Rain' 👋
 
-<!--
-**Indig0-Rain/Indig0-Rain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software a Cybersecurity Researcher and Ethical Hacker
 
-Here are some ideas to get you started:
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- JavaScript
+- React
+- Node.js
+- Python
+
+## 📈 GitHub Stats
+
+[![Indig0-Rain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Indig0-Rain'&show_icons=true&theme=radical)](https://github.com/Indig0-Rain')
+
+## ☕ Support Me
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Indig0-Rain')
