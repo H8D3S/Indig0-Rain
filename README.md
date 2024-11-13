@@ -1,6 +1,6 @@
 # Hi there, I'm Indig0-Rain' 👋
 
-I'm a software a Cybersecurity Researcher and Ethical Hacker
+I'm a Cybersecurity Researcher and Ethical Hacker
 
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
