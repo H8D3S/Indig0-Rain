@@ -2,11 +2,8 @@
 
 # Hi there, I'm Indig0-Rain' 👋
 
-
+## About me
 I'm a passionate about Cybersecurity Research and Ethical Hackering and I'm always eager to learn new technologies and improve my skills.
-
-<details>
-  <summary>More about me</summary>
 
 - **Name**: Indig0-Rain
 - **From**: United States
@@ -18,8 +15,6 @@ I'm a passionate about Cybersecurity Research and Ethical Hackering and I'm alwa
 - I’m currently learning **everything** 
 - 📫 Reach me out at **weaponshot@proton.me**
 
-</details>
-<br>
 
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
