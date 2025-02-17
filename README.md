@@ -5,15 +5,11 @@
 
 I'm a passionate about Cybersecurity Research and Ethical Hackering and I'm always eager to learn new technologies and improve my skills.
 
-
-![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
-## About Me
 <details>
   <summary>More about me</summary>
 
-- **Name**: coffin
-- **From**: Russia
+- **Name**: Indig0-Rain
+- **From**: United States
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in cracking,reverse Engineering,bug Hunting,forensics,web hacking.
 -**Reverse Engineering**, **Malware Analysis**
@@ -24,11 +20,11 @@ I'm a passionate about Cybersecurity Research and Ethical Hackering and I'm alwa
 
 </details>
 <br>
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [New Technology or Skill]
-- 👯 I’m looking to collaborate on [Open Source Project or Type of Project]
-- 💬 Ask me about [Your Preferred Topics]
-- 📫 How to reach me: [Your Email or Other Contact Info]
+
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+
+
 
 
 
