@@ -8,7 +8,7 @@ I'm a passionate about Cybersecurity Research and Ethical Hackering and I'm alwa
 - **Name**: Indig0-Rain
 - **From**: United States
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
-- i have experience in cracking,reverse Engineering,bug Hunting,forensics,web hacking.
+- i have experience in cracking, reverse Engineering, bug Hunting, forensics, web hacking.
 -**Reverse Engineering**, **Malware Analysis**
 - 👯 I’m looking to collaborate on bug bounty 
 - Improving knowledge in **Website Vulnerabilities**
