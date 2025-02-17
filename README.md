@@ -81,8 +81,14 @@ Feel free to reach out to me through any of the following platforms:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+ 
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=indig0-rain&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/indig0-rain/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=indig0-rain&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/indig0-rain/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indig0-rain&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+
+<br><br>
 
 
 Thank you for visiting my profile! Have a great day! 😊
