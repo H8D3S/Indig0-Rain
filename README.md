@@ -1,11 +1,11 @@
 
 
-# Hi there, I'm Hades' 👋
+# Hi there, I'm H8D3S' 👋
 
 ## About me
 I'm a passionate about Cybersecurity Research and Ethical Hackering and I'm always eager to learn new technologies and improve my skills.
 
-- **Name**: Indig0-Rain
+- **Name**: H8D3S (Hades)
 - **From**: United States
 - **Bug Hunter** | **Security Researcher** | **forensics Analyst**
 - i have experience in cracking, reverse Engineering, bug Hunting, forensics, web hacking.
